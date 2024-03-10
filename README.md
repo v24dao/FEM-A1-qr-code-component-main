@@ -1,6 +1,6 @@
-###What I've Learned:
+### What I've Learned:
 
-####1. Centering vertically in a viewport using CSS grid:
+#### 1. Centering vertically in a viewport using CSS grid:
 
 ```css
 html,
@@ -14,7 +14,7 @@ body {
 }
 ```
 
-###Challenge Screenshot:
+### Challenge Screenshot:
 ![Challenge Screenshot](challenge-screenshot.png)
 =======
 <img src="challenge-screenshot.png" width="300">
