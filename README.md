@@ -1,8 +1,8 @@
 ### Links:
 
-[Solution Live link](https://v24dao-fem-a1.netlify.app/)
-[Front End Mentor Challenge ](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H?ref=challenge-roadmap)
-[All my Front End Mentor challenge solutions](https://github.com/v24dao/Front-End-Mentor-Challenges)
+[Live link](https://v24dao-fem-a1.netlify.app/) |
+[Front End Mentor Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H?ref=challenge-roadmap) |
+[All my Front End Mentor Solutions](https://github.com/v24dao/Front-End-Mentor-Challenges)
 
 ### What I've Learned:
 
