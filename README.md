@@ -1,6 +1,6 @@
 ### What I've Learned:
 
-#### 1. Centering vertically in a viewport using CSS grid:
+#### 1. How to center content vertically in a viewport using CSS grid:
 
 ```css
 html,
